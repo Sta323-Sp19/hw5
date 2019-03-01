@@ -4,6 +4,9 @@ Homework 5 - La Quinta is Spanish for next to Denny's
 ---
 due Thursday 03/21 by 11:59 pm.
 
+* Rundel, Colin - cr173@duke.edu
+
+<br/>
 <br/>
 
 ![dennys next to la quinta](hedberg.jpg?raw=1)
