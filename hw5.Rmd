@@ -1,0 +1,36 @@
+Homework 5
+========================================================
+
+
+## Task 1 - Scraping Denny's
+
+<!-- Detail your approach for scraping restaurant data from where2getit -->
+
+
+
+<br />
+
+### Task 2 - Scraping LQ
+
+<!-- Detail your approach for scraping hotel data from LQ's website -->
+
+
+
+<br />
+
+
+
+## Task 3 -  Distance Analysis
+
+```{r}
+dennys = readRDS("data/dennys.rds")
+lq = readRDS("data/lq.rds")
+```
+
+<!-- Detail your statistical analysis of the pairwise distance between Denny's and LQ's -->
+
+```{r}
+```
+
+
+<br />
