@@ -30,6 +30,8 @@ lq = readRDS("data/lq.rds")
 <!-- Detail your statistical analysis of the pairwise distance between Denny's and LQ's -->
 
 ```{r}
+dennys
+lq
 ```
 
 
