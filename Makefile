@@ -1,3 +1,5 @@
+all: hw5.html
+
 hw5.html: data/dennys.rds data/lq.rds hw5.Rmd
 	Rscript -e "library(rmarkdown); render('hw5.Rmd')"
 
@@ -12,3 +14,9 @@ data/dennys/*.html: get_dennys.R
 	
 data/lq/*.html: get_lq.R
 	Rscript get_lq.R
+
+clean:
+	rm -f hw5.html
+	rm -rf data/
+	
+.PHONY: clean all
