@@ -1,10 +1,6 @@
-[![wercker status](https://app.wercker.com/status/ebb43f0500cf3ca49638defccf99e57c/s/master "wercker status")](https://app.wercker.com/project/byKey/ebb43f0500cf3ca49638defccf99e57c)
-
 Homework 5 - La Quinta is Spanish for next to Denny's
 ---
 due Thursday 03/21 by 11:59 pm.
-
-* Rundel, Colin - cr173@duke.edu
 
 <br/>
 <br/>
