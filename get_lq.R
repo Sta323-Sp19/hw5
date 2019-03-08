@@ -1,3 +1,6 @@
 dir.create("data/lq/", showWarnings = TRUE, recursive = TRUE)
 
-writeLines("hello", "data/lq/lq.html")
+download.file(
+  "https://www.lqwebservices.com/lqecommerce/api/ecommerce/propertymaster/hotels?apikey=NjAwQjY2QjEtQzJCQy00ODdFLTk2MzYtQTQ1MUVGODkxMEYz",
+  destfile="data/lq/hotel.json"
+)
